@@ -10,7 +10,7 @@ public class Main {
 
     }
     //class
-    static class Product{
+    public static class Product{
         //method 1
         //same method but different parameters
         public int product(int x, int y) {
