@@ -18,7 +18,7 @@ public class Main {
         }
         //method 2
         public int product(int x, int y, int z) {
-            return x*y;
+            return x*y*z;
         }
         //method 3
         public double product(double x,double y){
